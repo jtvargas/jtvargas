@@ -68,10 +68,10 @@ Slash-command autocomplete, FaceID-locked snippets, on-device storage with optio
 SwiftUI + SwiftData + LocalAuthentication + RevenueCat.
 [App Store](https://go.jrtv.space/apps) · [Code](https://github.com/jtvargas/SnipKey)
 
-### Tower Defense — Void · ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-Prepare, build, and defend — a strategy tower-defense game built with React Native. Wave-based
+### Tower Defense — Void · ![Swift](https://img.shields.io/badge/-Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+A strategy tower-defense game built native on Swift/SwiftUI. Wave-based
 combat, tower placement and upgrades, all running smoothly on-device.
-[App Store](https://go.jrtv.space/apps) · [Code](https://github.com/jtvargas/rn-td)
+[App Store](https://apps.apple.com/app/void-tower-defense/id6762655620?ct=github&mt=8) [Website](https://voidgame.app/)
 
 ### StepsAppRN · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 Cross-platform health app reading steps & distance from Apple HealthKit and Google Fit through
