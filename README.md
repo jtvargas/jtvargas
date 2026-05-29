@@ -22,6 +22,7 @@ idea → architecture → release.
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white)
 ![SwiftData](https://img.shields.io/badge/SwiftData-0A84FF?style=flat-square&logo=swift&logoColor=white)
 ![CloudKit](https://img.shields.io/badge/CloudKit-3693F3?style=flat-square&logo=icloud&logoColor=white)
+![Virtualization](https://img.shields.io/badge/Virtualization.framework-555555?style=flat-square&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
 **Cross-Platform** &nbsp;
@@ -41,6 +42,17 @@ idea → architecture → release.
 
 ---
 
+## 🛠️ Currently Building
+
+### vmdispatch · ![Swift](https://img.shields.io/badge/-Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+A Swift-powered macOS virtualization platform for Apple Silicon that spins up disposable,
+AI-agent-ready VMs from declarative **Pkl** templates. Automated provisioning, secure
+host-controlled automation, per-VM networking, and instant sandbox cloning — driven from either a
+**CLI** or a **SwiftUI** manager, built on Apple's Virtualization.framework.
+[Code](https://github.com/jtvargas/vmdispatch)
+
+---
+
 ## 🚀 Selected Work
 
 A mix of apps I've shipped to the App Store and open-source projects. (★ = GitHub stars)
@@ -57,10 +69,10 @@ Slash-command autocomplete, FaceID-locked snippets, on-device storage with optio
 SwiftUI + SwiftData + LocalAuthentication + RevenueCat.
 [App Store](https://go.jrtv.space/apps) · [Code](https://github.com/jtvargas/SnipKey)
 
-### The Lock: Game · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) · 37★
-Offline number-guessing puzzle game with a spinner, haptic feedback, and collectible themes.
-React Native + Expo, Redux Toolkit, Unistyles theming, Atomic Design architecture.
-[App Store](https://go.jrtv.space/apps) · [Code](https://github.com/jtvargas/TheLock)
+### Tower Defense — Void · ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+Prepare, build, and defend — a strategy tower-defense game built with React Native. Wave-based
+combat, tower placement and upgrades, all running smoothly on-device.
+[App Store](https://go.jrtv.space/apps) · [Code](https://github.com/jtvargas/rn-td)
 
 ### StepsAppRN · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 Cross-platform health app reading steps & distance from Apple HealthKit and Google Fit through
@@ -71,7 +83,7 @@ native bridges (Obj-C / Kotlin).
 My Neovim + LazyVim config with VSCode-style keybindings — the editor setup I use daily.
 [Code](https://github.com/jtvargas/nvim-vscode-setup-jt)
 
-> 📱 More on the App Store: **Tower Defense – Void**, **Hit21: Blackjack**, **ink. – Casual Mini-Games**, **Vibe C. – Well-Being Tracker** → [go.jrtv.space/apps](https://go.jrtv.space/apps)
+> 📱 More on the App Store: **Hit21: Blackjack**, **ink. – Casual Mini-Games**, **Vibe C. – Well-Being Tracker** → [go.jrtv.space/apps](https://go.jrtv.space/apps)
 
 ---
 
