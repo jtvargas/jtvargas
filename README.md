@@ -48,8 +48,7 @@ idea → architecture → release.
 A Swift-powered macOS virtualization platform for Apple Silicon that spins up disposable,
 AI-agent-ready VMs from declarative **Pkl** templates. Automated provisioning, secure
 host-controlled automation, per-VM networking, and instant sandbox cloning — driven from either a
-**CLI** or a **SwiftUI** manager, built on Apple's Virtualization.framework.
-[Code](https://github.com/jtvargas/vmdispatch)
+**CLI** or a **SwiftUI** manager, built on Apple's Virtualization.framework. (Private repo yet)
 
 ---
 
