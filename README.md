@@ -4,12 +4,11 @@
 **React Native** and **native Swift/SwiftUI**. 7 apps live on the App Store, end to end:
 idea → architecture → release.
 
-📍 Available for mobile engineering roles & collaborations
-🔗 [App Store](https://go.jrtv.space/apps) · [LinkedIn](https://www.linkedin.com/in/jrtv/) · [X/Twitter](https://twitter.com/jtaverasv) · [Email](mailto:jonathanrtv@outlook.com)
+🔗 [App Store](https://go.jrtv.space/apps) · [X/Twitter](https://twitter.com/jtaverasv) 
 
 ---
 
-## 🧰 Tech Stack
+## My Stack
 
 **Languages** &nbsp;
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
@@ -52,7 +51,7 @@ host-controlled automation, per-VM networking, and instant sandbox cloning — d
 
 ---
 
-## 🚀 Selected Work
+## Some of my Work
 
 A mix of apps I've shipped to the App Store and open-source projects. (★ = GitHub stars)
 
@@ -78,19 +77,7 @@ Cross-platform health app reading steps & distance from Apple HealthKit and Goog
 native bridges (Obj-C / Kotlin).
 [Code](https://github.com/jtvargas/StepsAppRN)
 
-### nvim-vscode-setup-jt · ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-My Neovim + LazyVim config with VSCode-style keybindings — the editor setup I use daily.
-[Code](https://github.com/jtvargas/nvim-vscode-setup-jt)
 
 > 📱 More on the App Store: **Hit21: Blackjack**, **ink. – Casual Mini-Games**, **Vibe C. – Well-Being Tracker** → [go.jrtv.space/apps](https://go.jrtv.space/apps)
 
 ---
-
-## 💡 What I bring
-
-- **Ship end-to-end.** From architecture and native integrations to App Store release — 7 apps live.
-- **Native depth + RN reach.** Comfortable in SwiftUI/SwiftData/CloudKit and React Native/Expo,
-  including writing native bridges (HealthKit, Google Fit, keyboard & share extensions).
-- **Quality-minded.** MVVM and Atomic Design, typed codebases, offline-first and privacy-first patterns.
-
-📫 Open to new opportunities — reach me on [LinkedIn](https://www.linkedin.com/in/jrtv/) or [email](mailto:jonathanrtv@outlook.com).
