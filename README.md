@@ -41,16 +41,6 @@ idea → architecture → release.
 
 ---
 
-## 🛠️ Currently Building
-
-### vmdispatch · ![Swift](https://img.shields.io/badge/-Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
-A Swift-powered macOS virtualization platform for Apple Silicon that spins up disposable,
-AI-agent-ready VMs from declarative **Pkl** templates. Automated provisioning, secure
-host-controlled automation, per-VM networking, and instant sandbox cloning — driven from either a
-**CLI** or a **SwiftUI** manager, built on Apple's Virtualization.framework. (Private repo yet)
-
----
-
 ## Some of my Work
 
 A mix of apps I've shipped to the App Store and open-source projects. (★ = GitHub stars)
@@ -76,6 +66,13 @@ combat, tower placement and upgrades, all running smoothly on-device.
 Cross-platform health app reading steps & distance from Apple HealthKit and Google Fit through
 native bridges (Obj-C / Kotlin).
 [Code](https://github.com/jtvargas/StepsAppRN)
+
+### vmdispatch · ![Swift](https://img.shields.io/badge/-Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+A Swift-powered macOS virtualization platform for Apple Silicon that spins up disposable,
+AI-agent-ready VMs from declarative **Pkl** templates. Automated provisioning, secure
+host-controlled automation, per-VM networking, and instant sandbox cloning — driven from either a
+**CLI** or a **SwiftUI** manager, built on Apple's Virtualization.framework. (Private repo yet)
+
 
 
 > 📱 More on the App Store: **Hit21: Blackjack**, **ink. – Casual Mini-Games**, **Vibe C. – Well-Being Tracker** → [go.jrtv.space/apps](https://go.jrtv.space/apps)
