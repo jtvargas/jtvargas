@@ -47,13 +47,18 @@ Contact Me:
 
 A mix of apps I've shipped to the App Store and open-source projects. (★ = GitHub stars)
 
-### CrossX — Send to X4 · ![Swift](https://img.shields.io/badge/-Swift-F54A2A?style=flat-square&logo=swift&logoColor=white) · 44★
+### Hive — Native Buzz iOS Client · ![Swift](https://img.shields.io/badge/-Swift-F54A2A?style=flat-square&logo=swift&logoColor=white) · 10★
+Native Swift/SwiftUI iOS client for Buzz — Nostr-based messaging for human-agent collaboration
+SwiftUI + SwiftData + Nostr + Buzz
+[Code](https://github.com/jtvargas/buzz-ios-client)
+
+### CrossX — Send to X4 · ![Swift](https://img.shields.io/badge/-Swift-F54A2A?style=flat-square&logo=swift&logoColor=white) · 70★
 Native SwiftUI app (iOS/iPadOS/macOS) that turns any web page into an EPUB and sends it to Xteink
 X4 e-readers over local WiFi — no cloud, no account. Dual-tier extraction (SwiftSoup + Readability),
 in-memory EPUB generation, SwiftData history/queue, Share Extension, Siri Shortcuts.
 [App Store](https://go.jrtv.space/apps) · [Code](https://github.com/jtvargas/crosspoint-app)
 
-### SnipKey — Keyboard Extension · ![Swift](https://img.shields.io/badge/-Swift-F54A2A?style=flat-square&logo=swift&logoColor=white) · 15★
+### SnipKey — Keyboard Extension · ![Swift](https://img.shields.io/badge/-Swift-F54A2A?style=flat-square&logo=swift&logoColor=white) · 20★
 Privacy-first iOS custom keyboard for saving and pasting snippets, URLs, images & PDFs anywhere.
 Slash-command autocomplete, FaceID-locked snippets, on-device storage with optional CloudKit sync.
 SwiftUI + SwiftData + LocalAuthentication + RevenueCat.
