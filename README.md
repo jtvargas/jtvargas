@@ -4,6 +4,8 @@
 **React Native** and **native Swift/SwiftUI**. 7 apps live on the App Store, end to end:
 idea → architecture → release.
 
+Contact Me:
+
 🔗 [App Store](https://go.jrtv.space/apps) · [X/Twitter](https://twitter.com/jtaverasv) 
 
 ---
